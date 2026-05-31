@@ -67,6 +67,13 @@ The client starts at `http://localhost:3000`.
 | typescript | ~5.6.2 |
 | vite | ^5.4.10 |
 
+## UI
+Dashboard
+![alt text](image-1.png)
+Add new book modal
+![alt text](image.png)
+
+
 ---
 
 ## Design Decisions
