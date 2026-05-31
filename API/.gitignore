@@ -1,0 +1,74 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build & publish outputs
+bin/
+obj/
+out/
+publish/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# ASP.NET Core / EF
+appsettings.*.Development.json
+secrets.json
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+library.db
+
+# Logs
+*.log
+logs/
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dotnet tools
+.dotnet_tools/
+
+# Certificates
+*.pfx
+*.key
+
+# Temporary files
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.env
+.env.*
+
+# Ignore JetBrains Rider caches and logs
+.idea/
+*.sln.iml

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="API/API.csproj" />
+  <Project Path="UI/ui.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
